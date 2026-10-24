@@ -4,7 +4,7 @@ Contains my copilot instruction file, for use in repos as a submodule.
 
 ### Use
 Run this inside your main project repo:
-- git submodule add https://github.com/your-username/my-copilot-rules.git .github/shared-copilot
+- git submodule add https://github.com/hloucha/my-copilot-rules.git .github/shared-copilot
 
 Create link:
 - linux: ln -s shared-copilot/.github/copilot-instructions.md .github/copilot-instructions.md
