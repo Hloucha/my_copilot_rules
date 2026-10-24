@@ -3,7 +3,13 @@
 Contains my copilot instruction file, for use in repos as a submodule.
 
 ### Use
-Run this inside your main project repo:
+
+In vscode/copilot prompt:
+- "copy this instruction file into my repo to this project .github
+- https://github.com/Hloucha/my_copilot_rules/blob/main/.github/copilot-instructions.md"
+
+
+Or run this inside your main project repo:
 - git submodule add https://github.com/hloucha/my-copilot-rules.git .github/shared-copilot
 
 Create link:
