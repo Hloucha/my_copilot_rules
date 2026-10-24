@@ -5,7 +5,7 @@ Contains my copilot instruction file, for use in repos as a submodule.
 ### Use
 
 In vscode/copilot prompt:
-- "copy this instruction file into my repo to this project .github
+- "copy this instruction file into this repo to .github
 - https://github.com/Hloucha/my_copilot_rules/blob/main/.github/copilot-instructions.md"
 
 
